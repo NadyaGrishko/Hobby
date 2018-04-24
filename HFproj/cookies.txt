@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.relax.ua	TRUE	/	FALSE	1999999999	PHPSESSID	1062c35a0a70ccae9df45d38cbbdf112
+relap.io	TRUE	/	FALSE	1999999999	unique	pRGVhCMj
+relap.io	TRUE	/	FALSE	1999999999	suid	30a1bb2eef07b39fb68dd82a896e9c06cf697004--89f6c07b60ee94acb7f9fe66b5ea1fe90bd47920
+relap.io	TRUE	/	FALSE	1999999999	hllc	1
+relap.io	TRUE	/	FALSE	1999999999	rlpcrtfi	439680--e19a477dd15ce121aea5f44fb3754e4eb9e73fb3
+
